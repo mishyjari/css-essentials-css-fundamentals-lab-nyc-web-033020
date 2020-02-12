@@ -21,3 +21,6 @@ p#featured-property {
   width: 800px;
 }
 
+div#details {
+  float: left;
+}
