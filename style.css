@@ -12,4 +12,7 @@ img {
   position: center;
 }
 
-fig
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
