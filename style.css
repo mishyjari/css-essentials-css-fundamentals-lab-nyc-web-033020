@@ -21,6 +21,12 @@ p#featured-property {
   width: 800px;
 }
 
-div#details {
+section#details {
   float: left;
+}
+
+section#details ~ div {
+  background-color: red;
+  text-align: center;
+  width: 25%
 }
